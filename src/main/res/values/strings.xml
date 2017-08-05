@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">YupDevTask2</string>
+    <string-array name="game_names">
+        <item>"Real Football"</item>
+        <item>"Space Impact"</item>
+        <item>"Snake"</item>
+        <item>"Need for Speed"</item>
+        <item>"Pro Evolution Soccer"</item>
+        <item>"Bounce"</item>
+        <item>"Cooking Fever"</item>
+        <item>"Danger Dash"</item>
+        <item>"Dream League"</item>
+        <item>"Candy Crush"</item>
+        <item>"Subway Surf"</item>
+        <item>"God of War"</item>
+        <item>"Ninja Arashi"</item>
+        <item>"Criminal Case"</item>
+    </string-array>
+
+    <string-array name="game_genre">
+        <item>"soccer"</item>
+        <item>"arcade"</item>
+        <item>"adventure"</item>
+        <item>"arcade"</item>
+        <item>"soccer"</item>
+        <item>"fantasy"</item>
+        <item>"arcade"</item>
+        <item>"soccer"</item>
+        <item>"fantasy"</item>
+        <item>"arcade"</item>
+        <item>"adventure"</item>
+        <item>"martial"</item>
+        <item>"puzzle"</item>
+        <item>"adventure"</item>
+    </string-array>
+
+    <string-array name="game_vendor">
+        <item>"Gameloft"</item>
+        <item>"Nokia"</item>
+        <item>"Nokia"</item>
+        <item>"EA Sports"</item>
+        <item>"Nokia"</item>
+        <item>"Konami"</item>
+        <item>"Nokia"</item>
+        <item>"Sniper"</item>
+        <item>"Jaguar"</item>
+        <item>"First Touch Games"</item>
+        <item>"King"</item>
+        <item>"Konami"</item>
+        <item>"Begor"</item>
+        <item>"Karachi"</item>
+    </string-array>
+</resources>
